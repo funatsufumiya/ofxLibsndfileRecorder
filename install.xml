@@ -17,7 +17,7 @@
 		</include>
 
 		<link>
-			<lib os="win32" compiler="visualstudio">../../../addons/ofxLibsndFileRecorder/libs/libsndfile/lib/vs2010/libsndfile-1.lib</lib>
+			<lib os="win32" compiler="visualstudio">../../../addons/ofxLibsndFileRecorder/libs/libsndfile/lib/vs/libsndfile-1.lib</lib>
 			<lib os="mac"   compiler="xcode">../../../addons/ofxLibsndFileRecorder/libs/libsndfile/lib/osx/scUBlibsndfile.a</lib>
 		</link>
 	</add>
